@@ -1,5 +1,4 @@
 module BR (
-    input clk,
     input [4:0] R_register_1,
     input [4:0] R_register_2,
     input [4:0] W_register,
@@ -21,7 +20,7 @@ always @* begin
 end
 
 
-    always @(posedge clk) begin
+    always @* begin
         if (RegEn) begin
             MEM_BANCO[W_register] <= W_data;
         end
