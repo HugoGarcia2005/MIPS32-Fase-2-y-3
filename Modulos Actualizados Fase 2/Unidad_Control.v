@@ -1,3 +1,4 @@
+// Revisar
 module UC (
 	input [5:0] OpCode,
 	output reg MemToReg,
