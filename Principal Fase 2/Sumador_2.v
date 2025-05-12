@@ -1,6 +1,6 @@
-// Terminar (Tamaños de señales)
+// Terminar (TamaÃ±os de seÃ±ales)
 module Sumador_2(	
-	input [2:0] resultado_sumador,
+	input [31:0] resultado_sumador,
 	input [31:0] resultado_shift,
 	output reg [31:0]suma
 );
