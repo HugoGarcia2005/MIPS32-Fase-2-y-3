@@ -1,0 +1,354 @@
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 22 compiles, 0 failed with no errors.
+vsim work.DATAPATH_FASE2_TB
+# vsim work.DATAPATH_FASE2_TB 
+# Start time: 21:25:40 on May 12,2025
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+add wave -position insertpoint sim:/DATAPATH_FASE2_TB/*
+run -all
+# ** Note: $finish    : C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_TB.v(22)
+#    Time: 2020 ns  Iteration: 0  Instance: /DATAPATH_FASE2_TB
+# 1
+# Break in Module DATAPATH_FASE2_TB at C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_TB.v line 22
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_1
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_2
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/alu_fase2/Res
+run -all
+# ** Note: $finish    : C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_TB.v(22)
+#    Time: 2020 ns  Iteration: 0  Instance: /DATAPATH_FASE2_TB
+# 1
+# Break in Module DATAPATH_FASE2_TB at C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_TB.v line 22
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 22 compiles, 0 failed with no errors.
+vsim work.DATAPATH_FASE2_TB
+# End time: 21:34:06 on May 12,2025, Elapsed time: 0:08:26
+# Errors: 0, Warnings: 2
+# vsim work.DATAPATH_FASE2_TB 
+# Start time: 21:34:06 on May 12,2025
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_1
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_2
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/alu_fase2/Res
+add wave -position end  sim:/DATAPATH_FASE2_TB/clk
+add wave -position end  sim:/DATAPATH_FASE2_TB/reset
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_1
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_2
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/alu_fase2/Res
+run -all
+# Break key hit
+# Simulation stop requested.
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 22 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# Break key hit
+# Break in Module MUX_PC at C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorPC.v line 8
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 22 compiles, 0 failed with no errors.
+vsim work.DATAPATH_FASE2_TB
+# End time: 21:37:16 on May 12,2025, Elapsed time: 0:03:10
+# Errors: 0, Warnings: 2
+# vsim work.DATAPATH_FASE2_TB 
+# Start time: 21:37:16 on May 12,2025
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+add wave -position insertpoint sim:/DATAPATH_FASE2_TB/*
+run -all
+# Break key hit
+# Break in Module DATAPATH_FASE2_TB at C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_TB.v line 14
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_1
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_2
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/alu_fase2/Res
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# A time value could not be extracted from the current line
+# A time value could not be extracted from the current line
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 22 compiles, 0 failed with no errors.
+vsim work.DATAPATH_FASE2_TB
+# End time: 21:41:51 on May 12,2025, Elapsed time: 0:04:35
+# Errors: 0, Warnings: 2
+# vsim work.DATAPATH_FASE2_TB 
+# Start time: 21:41:51 on May 12,2025
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+add wave -position insertpoint sim:/DATAPATH_FASE2_TB/*
+run -all
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 22 compiles, 0 failed with no errors.
+vsim work.DATAPATH_FASE2_TB
+# End time: 21:44:21 on May 12,2025, Elapsed time: 0:02:30
+# Errors: 0, Warnings: 2
+# vsim work.DATAPATH_FASE2_TB 
+# Start time: 21:44:21 on May 12,2025
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+add wave -position insertpoint sim:/DATAPATH_FASE2_TB/*
+run -all
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_1
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_2
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/alu_fase2/Res
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 

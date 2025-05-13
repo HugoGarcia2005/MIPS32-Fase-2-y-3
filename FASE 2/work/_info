@@ -1,0 +1,923 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAC
+Z0 !s110 1747107846
+!i10b 1
+!s100 Q`;h9l5eHC`G?QLkaX6ie3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<iZ9f<jL08F4b=U6T5GfE0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/danie/Desktop/ADC/Practicas/FASE 2
+w1747104830
+8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu_Control.v
+FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu_Control.v
+!i122 199
+L0 1 56
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1747107846.000000
+!s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu_Control.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@c
+vALU
+R0
+!i10b 1
+!s100 dVBKWWRJn;@3<mhKdbK<S0
+R1
+IaQHG3Y:<d4j75l0jzcmOb2
+R2
+R3
+w1747104832
+8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu.v
+FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu.v
+!i122 198
+Z8 L0 2 52
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vBFF1
+Z9 !s110 1747107847
+!i10b 1
+!s100 PC<HGbb6SWgzmM7Rhi4j;2
+R1
+IIj0k[QeG2?9bz0e@RUBk41
+R2
+R3
+w1747104839
+Z10 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_IF_ID.v
+Z11 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_IF_ID.v
+!i122 204
+L0 3 16
+R4
+r1
+!s85 0
+31
+Z12 !s108 1747107847.000000
+Z13 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_IF_ID.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_IF_ID.v|
+!i113 1
+R6
+R7
+n@b@f@f1
+vBFF2
+R9
+!i10b 1
+!s100 3_>g9f?@@@b0_6oR2`>QE0
+R1
+IT;a9a=m6`S]c0ARDn53BQ3
+R2
+R3
+w1747104838
+Z15 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_ID_EX.v
+Z16 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_ID_EX.v
+!i122 203
+R8
+R4
+r1
+!s85 0
+31
+R12
+Z17 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_ID_EX.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_ID_EX.v|
+!i113 1
+R6
+R7
+n@b@f@f2
+vBFF3
+R9
+!i10b 1
+!s100 PW5VTlF?KaDl0DANA?5691
+R1
+IdNFLQ<bJ^XWdY`joLe5>A0
+R2
+R3
+w1747104837
+Z19 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_EX_MEM.v
+Z20 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_EX_MEM.v
+!i122 202
+L0 3 43
+R4
+r1
+!s85 0
+31
+R12
+Z21 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_EX_MEM.v|
+Z22 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_EX_MEM.v|
+!i113 1
+R6
+R7
+n@b@f@f3
+vBFF4
+R9
+!i10b 1
+!s100 :PH6cIY3eRJj[0gj^bFDk1
+R1
+I@FR]Qd1lTO1R?W]^Hb^3Q1
+R2
+R3
+w1747104840
+Z23 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_MEM_WB.v
+Z24 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_MEM_WB.v
+!i122 205
+L0 2 27
+R4
+r1
+!s85 0
+31
+R12
+Z25 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_MEM_WB.v|
+Z26 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_MEM_WB.v|
+!i113 1
+R6
+R7
+n@b@f@f4
+vBR
+R0
+!i10b 1
+!s100 kU?@CfcQZzIT82zg7zaoz3
+R1
+I`BDAEgTRThEzN?S]X9O:D1
+R2
+R3
+w1747104833
+8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Banco_Registros.v
+FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Banco_Registros.v
+!i122 200
+L0 1 29
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Banco_Registros.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Banco_Registros.v|
+!i113 1
+R6
+R7
+n@b@r
+vBRANCH
+R9
+!i10b 1
+!s100 F>WV=[EG<dR9GRGF=F^bi1
+R1
+IX]0haI<`iDzo@i]KZm3n>1
+R2
+R3
+w1747104836
+Z27 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Branch.v
+Z28 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Branch.v
+!i122 201
+Z29 L0 1 11
+R4
+r1
+!s85 0
+31
+R5
+Z30 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Branch.v|
+Z31 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Branch.v|
+!i113 1
+R6
+R7
+n@b@r@a@n@c@h
+vBranch
+Z32 !s110 1747095411
+!i10b 1
+!s100 ^8jFJ=VeKF`aEC_Sm?12:0
+R1
+I0Gj=S^Bf78DSiG3kcfnO73
+R2
+R3
+Z33 w1747032545
+R27
+R28
+!i122 3
+Z34 L0 1 10
+R4
+r1
+!s85 0
+31
+Z35 !s108 1747095411.000000
+R30
+R31
+!i113 1
+R6
+R7
+n@branch
+vBuffer_EX_MEM
+R32
+!i10b 1
+!s100 ?ML1?@bXG@Ll;4]lP1lQA3
+R1
+IVM:ABOl^V?ba^laI]g6B?1
+R2
+R3
+R33
+R19
+R20
+!i122 4
+L0 2 41
+R4
+r1
+!s85 0
+31
+R35
+R21
+R22
+!i113 1
+R6
+R7
+n@buffer_@e@x_@m@e@m
+vBuffer_ID_EX
+R32
+!i10b 1
+!s100 4=7WUAONaIPjULCSUl:EM1
+R1
+I1IPDDK<4<Pm_5ac^YRb3h3
+R2
+R3
+R33
+R15
+R16
+!i122 5
+R8
+R4
+r1
+!s85 0
+31
+R35
+R17
+R18
+!i113 1
+R6
+R7
+n@buffer_@i@d_@e@x
+vBuffer_IF_ID
+R32
+!i10b 1
+!s100 ;k`7b8lef1CU49L3IM8Ne1
+R1
+Ik:U=[E881K4gmNe:Q][mC2
+R2
+R3
+R33
+R10
+R11
+!i122 6
+L0 2 14
+R4
+r1
+!s85 0
+31
+R35
+R13
+R14
+!i113 1
+R6
+R7
+n@buffer_@i@f_@i@d
+vBuffer_MEM_WB
+R32
+!i10b 1
+!s100 0@IjS3LYS12ojlhJEd_3G3
+R1
+IYoOD8d0z[AR=V=2<cnn`C3
+R2
+R3
+R33
+R23
+R24
+!i122 7
+Z36 L0 2 23
+R4
+r1
+!s85 0
+31
+R35
+R25
+R26
+!i113 1
+R6
+R7
+n@buffer_@m@e@m_@w@b
+vDATAPATH_FASE2
+R9
+!i10b 1
+!s100 DX3:U=WdMe6AQ_]`XaZ7U2
+R1
+I:ZgKY7THG:zo[EfLi=z`m1
+R2
+R3
+w1747106636
+Z37 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_InstanciaV2.v
+Z38 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_InstanciaV2.v
+!i122 206
+L0 1 323
+R4
+r1
+!s85 0
+31
+R12
+Z39 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_InstanciaV2.v|
+Z40 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_InstanciaV2.v|
+!i113 1
+R6
+R7
+n@d@a@t@a@p@a@t@h_@f@a@s@e2
+vDataPath_Fase2_Instancia
+R32
+!i10b 1
+!s100 1Hhm8VBbbOfCn8o[M^VFD2
+R1
+IEnT`;DCWSN2b5:=U:_[792
+R2
+R3
+R33
+R37
+R38
+!i122 8
+L0 3 357
+R4
+r1
+!s85 0
+31
+R35
+R39
+R40
+!i113 1
+R6
+R7
+n@data@path_@fase2_@instancia
+vDATAPATH_FASE2_TB
+R9
+!i10b 1
+!s100 UmLV7o5b[<nS9YKfJS:5U3
+R1
+IiPY`PMU4f94Lja]cR;4Ib0
+R2
+R3
+w1747107420
+Z41 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_TB.v
+Z42 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_TB.v
+!i122 207
+L0 2 24
+R4
+r1
+!s85 0
+31
+R12
+Z43 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_TB.v|
+Z44 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_TB.v|
+!i113 1
+R6
+R7
+n@d@a@t@a@p@a@t@h_@f@a@s@e2_@t@b
+vDataPath_Fase2_TB
+R32
+!i10b 1
+!s100 `e>k52<NT?SaYD51[@O^f3
+R1
+II7_fF?F0<bOL?YODe:5Ob2
+R2
+R3
+R33
+R41
+R42
+!i122 9
+R36
+R4
+r1
+!s85 0
+31
+R35
+R43
+R44
+!i113 1
+R6
+R7
+n@data@path_@fase2_@t@b
+vMEM
+R32
+!i10b 1
+!s100 PNU41JTKjO8ZIlA4aXBhS2
+R1
+I4gK>GTNeNG7NX3^<AE8d@1
+R2
+R3
+R33
+Z45 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Datos.v
+Z46 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Datos.v
+!i122 10
+Z47 L0 1 26
+R4
+r1
+!s85 0
+31
+R35
+Z48 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Datos.v|
+Z49 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Datos.v|
+!i113 1
+R6
+R7
+n@m@e@m
+vMEM_DATA
+R9
+!i10b 1
+!s100 2;a0zXPzEH;Bz`WkXIAIV0
+R1
+IbT@KD4P`:g9mZCj=^VT0@0
+R2
+R3
+w1747104845
+R45
+R46
+!i122 208
+R47
+R4
+r1
+!s85 0
+31
+R12
+R48
+R49
+!i113 1
+R6
+R7
+n@m@e@m_@d@a@t@a
+vMEM_INST
+R9
+!i10b 1
+!s100 Kk7Z=5aN<dPPEZfDmdPV?1
+R1
+Ih2zjnV:_g=_M=ZkSE5BI_3
+R2
+R3
+w1747104846
+8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Instrucciones.v
+FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Instrucciones.v
+!i122 209
+L0 1 16
+R4
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Instrucciones.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Instrucciones.v|
+!i113 1
+R6
+R7
+n@m@e@m_@i@n@s@t
+vMultiplexorALU
+R32
+!i10b 1
+!s100 2X1n]b:[TMXi>gc_`60:[3
+R1
+IV[cW0:izC]9[[Bb_3jXM62
+R2
+R3
+R33
+Z50 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorALU.v
+Z51 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorALU.v
+!i122 12
+Z52 L0 1 17
+R4
+r1
+!s85 0
+31
+R35
+Z53 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorALU.v|
+Z54 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorALU.v|
+!i113 1
+R6
+R7
+n@multiplexor@a@l@u
+vMultiplexorMemDatos
+Z55 !s110 1747095412
+!i10b 1
+!s100 8CQZKQ]>1<elMG2zKQKLc2
+R1
+IM?iz1]OOCS_;[GMQC_7Ig0
+R2
+R3
+R33
+Z56 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorMemDatos.v
+Z57 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorMemDatos.v
+!i122 13
+R52
+R4
+r1
+!s85 0
+31
+R35
+Z58 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorMemDatos.v|
+Z59 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorMemDatos.v|
+!i113 1
+R6
+R7
+n@multiplexor@mem@datos
+vMultiplexorPC
+R55
+!i10b 1
+!s100 A7DcM<Jze<T[:J<]BLATG0
+R1
+I1QIflIJV4aG]U3jIM0ke_3
+R2
+R3
+R33
+Z60 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorPC.v
+Z61 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorPC.v
+!i122 14
+L0 2 17
+R4
+r1
+!s85 0
+31
+Z62 !s108 1747095412.000000
+Z63 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorPC.v|
+Z64 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorPC.v|
+!i113 1
+R6
+R7
+n@multiplexor@p@c
+vMultiplexorTipoI
+R55
+!i10b 1
+!s100 TXH=QE_f5J52HiTj7[XAf2
+R1
+I1gSj9TF101GzfdaS1C3Y@1
+R2
+R3
+R33
+Z65 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorTipoI.v
+Z66 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorTipoI.v
+!i122 15
+R52
+R4
+r1
+!s85 0
+31
+R62
+Z67 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorTipoI.v|
+Z68 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorTipoI.v|
+!i113 1
+R6
+R7
+n@multiplexor@tipo@i
+vMUX_ALU
+R9
+!i10b 1
+!s100 ]nlW=RZBbb@`IfUO0SLT=0
+R1
+IR]zJmPN42BaEBeZ^:1cNd0
+R2
+R3
+Z69 w1747104847
+R50
+R51
+!i122 210
+R52
+R4
+r1
+!s85 0
+31
+R12
+R53
+R54
+!i113 1
+R6
+R7
+n@m@u@x_@a@l@u
+vMUX_MEM_DATA
+Z70 !s110 1747107848
+!i10b 1
+!s100 Wf4c=go<mIhH7XdNOaXKN0
+R1
+IEY;mOZ>fNRom6hA714WA03
+R2
+R3
+R69
+R56
+R57
+!i122 211
+R52
+R4
+r1
+!s85 0
+31
+R12
+R58
+R59
+!i113 1
+R6
+R7
+n@m@u@x_@m@e@m_@d@a@t@a
+vMUX_MEMDATA
+!s110 1747096787
+!i10b 1
+!s100 M@f6PWB4S26bW_C;]P[8>3
+R1
+IYVEVGGbk>2=U^BDOQ<JO22
+R2
+R3
+w1747096423
+R56
+R57
+!i122 35
+R52
+R4
+r1
+!s85 0
+31
+!s108 1747096787.000000
+R58
+R59
+!i113 1
+R6
+R7
+n@m@u@x_@m@e@m@d@a@t@a
+vMUX_PC
+R70
+!i10b 1
+!s100 N4?k0KaCRXeVU2FQdez`73
+R1
+IlGgll4G572[`G]VWc0c2Y2
+R2
+R3
+w1747104848
+R60
+R61
+!i122 212
+R52
+R4
+r1
+!s85 0
+31
+Z71 !s108 1747107848.000000
+R63
+R64
+!i113 1
+R6
+R7
+n@m@u@x_@p@c
+vMUX_TIPO_I
+R70
+!i10b 1
+!s100 ^Dc9eJDH6b>c<iagU>H`^3
+R1
+I2PB;kG2lKDFoiEkE1b5Cc0
+R2
+R3
+w1747104849
+R65
+R66
+!i122 213
+R52
+R4
+r1
+!s85 0
+31
+R71
+R67
+R68
+!i113 1
+R6
+R7
+n@m@u@x_@t@i@p@o_@i
+vPC
+R70
+!i10b 1
+!s100 jA8A6?Ca:C8YdUl3HYHXK0
+R1
+IRh__Rn:6`ceEzbg>1k:a[3
+R2
+R3
+w1747104850
+8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Program_Counter.v
+FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Program_Counter.v
+!i122 214
+R52
+R4
+r1
+!s85 0
+31
+R71
+!s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Program_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Program_Counter.v|
+!i113 1
+R6
+R7
+n@p@c
+vSHIFT_LEFT_2
+R70
+!i10b 1
+!s100 DTW8>NXGQge:7fIUjVhL=0
+R1
+IW>XCZ]P^4hgjNQg^93OE>1
+R2
+R3
+w1747104851
+Z72 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/ShiftLeftTwo.v
+Z73 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/ShiftLeftTwo.v
+!i122 215
+R34
+R4
+r1
+!s85 0
+31
+R71
+Z74 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/ShiftLeftTwo.v|
+Z75 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/ShiftLeftTwo.v|
+!i113 1
+R6
+R7
+n@s@h@i@f@t_@l@e@f@t_2
+vShiftLeftTwo
+R55
+!i10b 1
+!s100 KD?dNehO8XjEL1F0Sg[Xb0
+R1
+I>b^<ZNn:QV=E<JFW`ZRPe1
+R2
+R3
+R33
+R72
+R73
+!i122 17
+L0 1 9
+R4
+r1
+!s85 0
+31
+R62
+R74
+R75
+!i113 1
+R6
+R7
+n@shift@left@two
+vSIGN_EXTEND
+R70
+!i10b 1
+!s100 l=6d6nWanUIP^EUUT=ZmW0
+R1
+Ih@W;kI5PI<F9A89H5a1FU0
+R2
+R3
+w1747104852
+Z76 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/SignExtend.v
+Z77 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/SignExtend.v
+!i122 216
+Z78 L0 1 13
+R4
+r1
+!s85 0
+31
+R71
+Z79 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/SignExtend.v|
+Z80 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/SignExtend.v|
+!i113 1
+R6
+R7
+n@s@i@g@n_@e@x@t@e@n@d
+vSignExtend
+R55
+!i10b 1
+!s100 PcKa^69ZYmFRg_MLd]Wi63
+R1
+IkII6k^FH16<47fG@Kf0fD1
+R2
+R3
+R33
+R76
+R77
+!i122 18
+R78
+R4
+r1
+!s85 0
+31
+R62
+R79
+R80
+!i113 1
+R6
+R7
+n@sign@extend
+vSUMADOR
+R70
+!i10b 1
+!s100 h35>aRV;NomB=G[N?>YO31
+R1
+I8fah9bLZOAPg=_W26@TXe3
+R2
+R3
+Z81 w1747104853
+8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador.v
+FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador.v
+!i122 217
+R34
+R4
+r1
+!s85 0
+31
+R71
+!s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador.v|
+!i113 1
+R6
+R7
+n@s@u@m@a@d@o@r
+vSumador_2
+R55
+!i10b 1
+!s100 `a^k59JMdWIA]6gdE?0k71
+R1
+I[zz_PQN;3fdR_e=8E<7h90
+R2
+R3
+R33
+Z82 8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador_2.v
+Z83 FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador_2.v
+!i122 20
+L0 2 11
+R4
+r1
+!s85 0
+31
+R62
+Z84 !s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador_2.v|
+Z85 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador_2.v|
+!i113 1
+R6
+R7
+n@sumador_2
+vSUMADOR_2
+R70
+!i10b 1
+!s100 _LCd6idjVP3hkZ[m>X<<W3
+R1
+IdlIRVRWd]WOQ`NnV>?Uzm1
+R2
+R3
+R81
+R82
+R83
+!i122 218
+R29
+R4
+r1
+!s85 0
+31
+R71
+R84
+R85
+!i113 1
+R6
+R7
+n@s@u@m@a@d@o@r_2
+vUC
+R70
+!i10b 1
+!s100 []4RU]]@floG2Q;<DMmKV1
+R1
+IC_hfc@Blc4UL_Hnb>k0`33
+R2
+R3
+w1747104854
+8C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Unidad_Control.v
+FC:/Users/danie/Desktop/ADC/Practicas/FASE 2/Unidad_Control.v
+!i122 219
+L0 1 85
+R4
+r1
+!s85 0
+31
+R71
+!s107 C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Unidad_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Unidad_Control.v|
+!i113 1
+R6
+R7
+n@u@c

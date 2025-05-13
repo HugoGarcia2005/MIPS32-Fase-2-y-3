@@ -1,0 +1,148 @@
+{C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorMemDatos.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorMemDatos.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX_MEM_DATA
+
+Top level modules:
+	MUX_MEM_DATA
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorALU.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX_ALU
+
+Top level modules:
+	MUX_ALU
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorTipoI.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorTipoI.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX_TIPO_I
+
+Top level modules:
+	MUX_TIPO_I
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_ID_EX.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_ID_EX.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BFF2
+
+Top level modules:
+	BFF2
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu_Control.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AC
+
+Top level modules:
+	AC
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador_2.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SUMADOR_2
+
+Top level modules:
+	SUMADOR_2
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_IF_ID.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_IF_ID.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BFF1
+
+Top level modules:
+	BFF1
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Branch.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Branch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BRANCH
+
+Top level modules:
+	BRANCH
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Program_Counter.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Program_Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_MEM_WB.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_MEM_WB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BFF4
+
+Top level modules:
+	BFF4
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_InstanciaV2.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/DataPath_Fase2_InstanciaV2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DATAPATH_FASE2
+
+Top level modules:
+	DATAPATH_FASE2
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorPC.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/MultiplexorPC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX_PC
+
+Top level modules:
+	MUX_PC
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/SignExtend.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/SignExtend.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SIGN_EXTEND
+
+Top level modules:
+	SIGN_EXTEND
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Instrucciones.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Instrucciones.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEM_INST
+
+Top level modules:
+	MEM_INST
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/ShiftLeftTwo.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/ShiftLeftTwo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SHIFT_LEFT_2
+
+Top level modules:
+	SHIFT_LEFT_2
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Sumador.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SUMADOR
+
+Top level modules:
+	SUMADOR
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Banco_Registros.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Banco_Registros.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR
+
+Top level modules:
+	BR
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_EX_MEM.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Buffer_EX_MEM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BFF3
+
+Top level modules:
+	BFF3
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Datos.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Memoria_Datos.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEM_DATA
+
+Top level modules:
+	MEM_DATA
+
+} {} {}} {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Unidad_Control.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/Practicas/FASE 2/Unidad_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UC
+
+Top level modules:
+	UC
+
+} {} {}}
