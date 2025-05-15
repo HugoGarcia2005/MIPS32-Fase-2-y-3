@@ -1,0 +1,539 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAC
+Z0 !s110 1747271760
+!i10b 1
+!s100 40l=BQ@jCkimMRD8T1nAA1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUH<jYm@?_38ld@=W58Nff2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Yogo/Desktop/FASE 2
+w1747256226
+8C:/Users/Yogo/Desktop/FASE 2/Alu_Control.v
+FC:/Users/Yogo/Desktop/FASE 2/Alu_Control.v
+!i122 199
+L0 1 66
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1747271760.000000
+!s107 C:/Users/Yogo/Desktop/FASE 2/Alu_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Alu_Control.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@c
+vALU
+R0
+!i10b 1
+!s100 dVBKWWRJn;@3<mhKdbK<S0
+R1
+I2YoY2F0TJC]CzP:<FD]^M1
+R2
+R3
+Z8 w1747115551
+8C:/Users/Yogo/Desktop/FASE 2/Alu.v
+FC:/Users/Yogo/Desktop/FASE 2/Alu.v
+!i122 198
+Z9 L0 2 52
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/Yogo/Desktop/FASE 2/Alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Alu.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vBFF1
+Z10 !s110 1747271761
+!i10b 1
+!s100 PC<HGbb6SWgzmM7Rhi4j;2
+R1
+I:4Z<C;?gPBW16je^gVe[10
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Buffer_IF_ID.v
+FC:/Users/Yogo/Desktop/FASE 2/Buffer_IF_ID.v
+!i122 204
+L0 3 16
+R4
+r1
+!s85 0
+31
+Z11 !s108 1747271761.000000
+!s107 C:/Users/Yogo/Desktop/FASE 2/Buffer_IF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Buffer_IF_ID.v|
+!i113 1
+R6
+R7
+n@b@f@f1
+vBFF2
+R10
+!i10b 1
+!s100 3_>g9f?@@@b0_6oR2`>QE0
+R1
+I4jMNaIL3@nSAim332Db1T1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Buffer_ID_EX.v
+FC:/Users/Yogo/Desktop/FASE 2/Buffer_ID_EX.v
+!i122 203
+R9
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Yogo/Desktop/FASE 2/Buffer_ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Buffer_ID_EX.v|
+!i113 1
+R6
+R7
+n@b@f@f2
+vBFF3
+R10
+!i10b 1
+!s100 PW5VTlF?KaDl0DANA?5691
+R1
+I7S_JCOO=jV:OJL37;oXZX1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Buffer_EX_MEM.v
+FC:/Users/Yogo/Desktop/FASE 2/Buffer_EX_MEM.v
+!i122 202
+L0 3 43
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Yogo/Desktop/FASE 2/Buffer_EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Buffer_EX_MEM.v|
+!i113 1
+R6
+R7
+n@b@f@f3
+vBFF4
+Z12 !s110 1747271762
+!i10b 1
+!s100 :PH6cIY3eRJj[0gj^bFDk1
+R1
+IjaaCBEeBZXo?WooTg]NfJ1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Buffer_MEM_WB.v
+FC:/Users/Yogo/Desktop/FASE 2/Buffer_MEM_WB.v
+!i122 205
+L0 2 27
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Yogo/Desktop/FASE 2/Buffer_MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Buffer_MEM_WB.v|
+!i113 1
+R6
+R7
+n@b@f@f4
+vBR
+R10
+!i10b 1
+!s100 kU?@CfcQZzIT82zg7zaoz3
+R1
+IYNZW`bME9ZfSB?ocQPkj40
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Banco_Registros.v
+FC:/Users/Yogo/Desktop/FASE 2/Banco_Registros.v
+!i122 200
+L0 1 29
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Yogo/Desktop/FASE 2/Banco_Registros.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Banco_Registros.v|
+!i113 1
+R6
+R7
+n@b@r
+vBRANCH
+R10
+!i10b 1
+!s100 F>WV=[EG<dR9GRGF=F^bi1
+R1
+I4IG;6]iAiY8ch689F>SMV2
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Branch.v
+FC:/Users/Yogo/Desktop/FASE 2/Branch.v
+!i122 201
+Z13 L0 1 11
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Yogo/Desktop/FASE 2/Branch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Branch.v|
+!i113 1
+R6
+R7
+n@b@r@a@n@c@h
+vDATAPATH_FASE2
+R12
+!i10b 1
+!s100 DX3:U=WdMe6AQ_]`XaZ7U2
+R1
+IFg7CV=CMUS5DJC=PELl6g2
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/DataPath_Fase2_InstanciaV2.v
+FC:/Users/Yogo/Desktop/FASE 2/DataPath_Fase2_InstanciaV2.v
+!i122 206
+L0 1 323
+R4
+r1
+!s85 0
+31
+Z14 !s108 1747271762.000000
+!s107 C:/Users/Yogo/Desktop/FASE 2/DataPath_Fase2_InstanciaV2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/DataPath_Fase2_InstanciaV2.v|
+!i113 1
+R6
+R7
+n@d@a@t@a@p@a@t@h_@f@a@s@e2
+vDATAPATH_FASE2_TB
+R12
+!i10b 1
+!s100 UmLV7o5b[<nS9YKfJS:5U3
+R1
+I0L2B7M8J_]]UWBnchb2fI0
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/DataPath_Fase2_TB.v
+FC:/Users/Yogo/Desktop/FASE 2/DataPath_Fase2_TB.v
+!i122 207
+L0 2 24
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Yogo/Desktop/FASE 2/DataPath_Fase2_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/DataPath_Fase2_TB.v|
+!i113 1
+R6
+R7
+n@d@a@t@a@p@a@t@h_@f@a@s@e2_@t@b
+vMEM_DATA
+R12
+!i10b 1
+!s100 2;a0zXPzEH;Bz`WkXIAIV0
+R1
+Ih0=KDz?jPDF3BSKMaLl4L3
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Memoria_Datos.v
+FC:/Users/Yogo/Desktop/FASE 2/Memoria_Datos.v
+!i122 208
+L0 1 26
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Yogo/Desktop/FASE 2/Memoria_Datos.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Memoria_Datos.v|
+!i113 1
+R6
+R7
+n@m@e@m_@d@a@t@a
+vMEM_INST
+R12
+!i10b 1
+!s100 Kk7Z=5aN<dPPEZfDmdPV?1
+R1
+Ib6DSf7h[@1W5?;cS1EhkH2
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Memoria_Instrucciones.v
+FC:/Users/Yogo/Desktop/FASE 2/Memoria_Instrucciones.v
+!i122 209
+L0 1 16
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Yogo/Desktop/FASE 2/Memoria_Instrucciones.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Memoria_Instrucciones.v|
+!i113 1
+R6
+R7
+n@m@e@m_@i@n@s@t
+vMUX_ALU
+R12
+!i10b 1
+!s100 ]nlW=RZBbb@`IfUO0SLT=0
+R1
+IDiB_8fHiS]lozic;d2Rkl1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/MultiplexorALU.v
+FC:/Users/Yogo/Desktop/FASE 2/MultiplexorALU.v
+!i122 210
+Z15 L0 1 17
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Yogo/Desktop/FASE 2/MultiplexorALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/MultiplexorALU.v|
+!i113 1
+R6
+R7
+n@m@u@x_@a@l@u
+vMUX_MEM_DATA
+Z16 !s110 1747271763
+!i10b 1
+!s100 Wf4c=go<mIhH7XdNOaXKN0
+R1
+IDR@L;:NGz8kfzM4E6PS>I0
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/MultiplexorMemDatos.v
+FC:/Users/Yogo/Desktop/FASE 2/MultiplexorMemDatos.v
+!i122 211
+R15
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Yogo/Desktop/FASE 2/MultiplexorMemDatos.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/MultiplexorMemDatos.v|
+!i113 1
+R6
+R7
+n@m@u@x_@m@e@m_@d@a@t@a
+vMUX_PC
+R16
+!i10b 1
+!s100 N4?k0KaCRXeVU2FQdez`73
+R1
+I6KjMzchMM?kh0_o`B6NRm1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/MultiplexorPC.v
+FC:/Users/Yogo/Desktop/FASE 2/MultiplexorPC.v
+!i122 212
+R15
+R4
+r1
+!s85 0
+31
+Z17 !s108 1747271763.000000
+!s107 C:/Users/Yogo/Desktop/FASE 2/MultiplexorPC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/MultiplexorPC.v|
+!i113 1
+R6
+R7
+n@m@u@x_@p@c
+vMUX_TIPO_I
+R16
+!i10b 1
+!s100 ^Dc9eJDH6b>c<iagU>H`^3
+R1
+I=EbLVHGX7NecDF11^c4NM2
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/MultiplexorTipoI.v
+FC:/Users/Yogo/Desktop/FASE 2/MultiplexorTipoI.v
+!i122 213
+R15
+R4
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Yogo/Desktop/FASE 2/MultiplexorTipoI.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/MultiplexorTipoI.v|
+!i113 1
+R6
+R7
+n@m@u@x_@t@i@p@o_@i
+vPC
+R16
+!i10b 1
+!s100 jA8A6?Ca:C8YdUl3HYHXK0
+R1
+Iod2NPB19W9f[hAPV66;jA3
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Program_Counter.v
+FC:/Users/Yogo/Desktop/FASE 2/Program_Counter.v
+!i122 214
+R15
+R4
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Yogo/Desktop/FASE 2/Program_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Program_Counter.v|
+!i113 1
+R6
+R7
+n@p@c
+vSHIFT_LEFT_2
+R16
+!i10b 1
+!s100 DTW8>NXGQge:7fIUjVhL=0
+R1
+IRfQOkP8iW`gQ>Q0d6o2VG3
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/ShiftLeftTwo.v
+FC:/Users/Yogo/Desktop/FASE 2/ShiftLeftTwo.v
+!i122 215
+Z18 L0 1 10
+R4
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Yogo/Desktop/FASE 2/ShiftLeftTwo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/ShiftLeftTwo.v|
+!i113 1
+R6
+R7
+n@s@h@i@f@t_@l@e@f@t_2
+vSIGN_EXTEND
+R16
+!i10b 1
+!s100 l=6d6nWanUIP^EUUT=ZmW0
+R1
+If5JBcVJeo^c:6ND]N4FC62
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/SignExtend.v
+FC:/Users/Yogo/Desktop/FASE 2/SignExtend.v
+!i122 216
+L0 1 13
+R4
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Yogo/Desktop/FASE 2/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/SignExtend.v|
+!i113 1
+R6
+R7
+n@s@i@g@n_@e@x@t@e@n@d
+vSUMADOR
+Z19 !s110 1747271764
+!i10b 1
+!s100 h35>aRV;NomB=G[N?>YO31
+R1
+In7Ve]SQ7iCiQg2n6=PB>j2
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Sumador.v
+FC:/Users/Yogo/Desktop/FASE 2/Sumador.v
+!i122 217
+R18
+R4
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/Yogo/Desktop/FASE 2/Sumador.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Sumador.v|
+!i113 1
+R6
+R7
+n@s@u@m@a@d@o@r
+vSUMADOR_2
+R19
+!i10b 1
+!s100 _LCd6idjVP3hkZ[m>X<<W3
+R1
+I^JB<ZE91eW5^5gEinbG;81
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 2/Sumador_2.v
+FC:/Users/Yogo/Desktop/FASE 2/Sumador_2.v
+!i122 218
+R13
+R4
+r1
+!s85 0
+31
+Z20 !s108 1747271764.000000
+!s107 C:/Users/Yogo/Desktop/FASE 2/Sumador_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Sumador_2.v|
+!i113 1
+R6
+R7
+n@s@u@m@a@d@o@r_2
+vUC
+R19
+!i10b 1
+!s100 LG[LB6@?ffhTJ:c;XkHfb3
+R1
+Ic>QZ<Fj[o;e7ERB<C^m^G2
+R2
+R3
+w1747256179
+8C:/Users/Yogo/Desktop/FASE 2/Unidad_Control.v
+FC:/Users/Yogo/Desktop/FASE 2/Unidad_Control.v
+!i122 219
+L0 1 111
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Yogo/Desktop/FASE 2/Unidad_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 2/Unidad_Control.v|
+!i113 1
+R6
+R7
+n@u@c
