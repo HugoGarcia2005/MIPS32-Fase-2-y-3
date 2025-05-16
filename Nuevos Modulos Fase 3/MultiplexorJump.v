@@ -9,10 +9,10 @@ module MUX_JUMP (
 //Cuando jump es 1 se deberia activar entrada_Jump?
 always @* begin
 	if (Jump) begin
-		salida_a_PC <= entrada_muxPC;
+		salida_a_PC <= entrada_Jump;
 	end
 	else begin
-		salida_a_PC <= entrada_Jump;
+		salida_a_PC <= entrada_muxPC;
 	end
 end
 
