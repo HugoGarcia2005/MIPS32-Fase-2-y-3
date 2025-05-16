@@ -1,0 +1,101 @@
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 22 compiles, 0 failed with no errors.
+vsim -gui work.DATAPATH_FASE2_TB
+# vsim -gui work.DATAPATH_FASE2_TB 
+# Start time: 19:13:08 on May 14,2025
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+add wave -position end  sim:/DATAPATH_FASE2_TB/clk
+add wave -position end  sim:/DATAPATH_FASE2_TB/reset
+run -all
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 22 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+run -all
+# End time: 19:18:29 on May 14,2025, Elapsed time: 0:05:21
+# Errors: 0, Warnings: 1
