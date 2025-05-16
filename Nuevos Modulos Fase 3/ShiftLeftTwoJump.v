@@ -5,7 +5,7 @@ module SHIFT_LEFT_2_JUMP (
 );
 
 always @* begin
-	salidaLeftTwo = {2'b00,entrada};
+	salidaLeftTwo = {entrada,2'b00};
 end
 
 endmodule
