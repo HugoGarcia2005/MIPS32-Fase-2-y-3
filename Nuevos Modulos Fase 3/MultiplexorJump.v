@@ -1,6 +1,6 @@
 module MUX_JUMP (
-	input [31:0] entrada_muxPC,
 	input [31:0] entrada_Jump,
+	input [31:0] entrada_muxPC,
 	input Jump,
 	output reg [31:0] salida_a_PC
 );
