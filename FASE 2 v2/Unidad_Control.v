@@ -9,7 +9,8 @@ module UC (
 
 	output reg RegDst,
 	output reg Branch,
-	output reg ALUSrc
+	output reg ALUSrc,
+	output reg Jump
 );
 
 always @* begin
@@ -26,6 +27,7 @@ always @* begin
 			RegDst = 1'b1;
 			Branch = 1'b0;
 			ALUSrc = 1'b0;
+			Jump = 1'b0;
 			end
 		//SW
 		6'b101011:
@@ -39,6 +41,7 @@ always @* begin
 			RegDst = 1'b0;
 			Branch = 1'b0;
 			ALUSrc = 1'b1;
+			Jump = 1'b0;				
 			end
 		//LW
 		6'b100011:
@@ -52,6 +55,7 @@ always @* begin
 			RegDst = 1'b0;
 			Branch = 1'b0;
 			ALUSrc = 1'b1;
+			Jump = 1'b0;				
 			end
 		//ORI
 		6'b001101:
@@ -65,6 +69,7 @@ always @* begin
 			RegDst = 1'b0;
 			Branch = 1'b0;
 			ALUSrc = 1'b1;
+			Jump = 1'b0;				
 			end
 		//ANDI
 		6'b001100:
@@ -78,6 +83,7 @@ always @* begin
 			RegDst = 1'b0;
 			Branch = 1'b0;
 			ALUSrc = 1'b1;
+			Jump = 1'b0;				
 			end
 		//ADDI
 		6'b001000:
@@ -91,6 +97,7 @@ always @* begin
 			RegDst = 1'b0;
 			Branch = 1'b0;
 			ALUSrc = 1'b1;
+			Jump = 1'b0;				
 			end			
 		//BEQ
 		6'b000100:
@@ -104,6 +111,22 @@ always @* begin
 			RegDst = 1'b0;
 			Branch = 1'b1;
 			ALUSrc = 1'b0;
+			Jump = 1'b0;				
+			end
+		//JUMP
+		6'b000010:
+			begin
+			MemToReg = 1'b0;
+			MemToRead = 1'b0;
+			MemToWrite = 1'b0;
+			AluOp = 3'b000;
+			RegWrite = 1'b0;
+
+			RegDst = 1'b0;
+			Branch = 1'b0;
+			ALUSrc = 1'b0;
+			Jump = 1'b0;	
+			Jump = 1'b1;				
 			end
 	endcase
 end
