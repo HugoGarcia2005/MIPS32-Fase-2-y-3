@@ -1,4 +1,3 @@
-//Revisar
 module SHIFT_LEFT_2_JUMP (
 	input [25:0] entrada,
 	output reg [27:0] salidaLeftTwo
