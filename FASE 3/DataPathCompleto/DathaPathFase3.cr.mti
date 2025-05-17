@@ -82,19 +82,19 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	MUX_ALU
 
-} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorPC.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorPC.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module MUX_PC
-
-Top level modules:
-	MUX_PC
-
 } {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_MEM_WB.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_MEM_WB.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module BFF4
 
 Top level modules:
 	BFF4
+
+} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorPC.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorPC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX_PC
+
+Top level modules:
+	MUX_PC
 
 } {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorJump.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorJump.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -103,19 +103,12 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	MUX_JUMP
 
-} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu.v}
+} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Instrucciones.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Instrucciones.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module ALU
+-- Compiling module MEM_INST
 
 Top level modules:
-	ALU
-
-} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorTipoI.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorTipoI.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module MUX_TIPO_I
-
-Top level modules:
-	MUX_TIPO_I
+	MEM_INST
 
 } {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_ID_EX.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_ID_EX.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -124,12 +117,19 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	BFF2
 
-} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Instrucciones.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Instrucciones.v}
+} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorTipoI.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorTipoI.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module MEM_INST
+-- Compiling module MUX_TIPO_I
 
 Top level modules:
-	MEM_INST
+	MUX_TIPO_I
+
+} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
 
 } {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Sumador.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Sumador.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -138,19 +138,12 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	SUMADOR
 
-} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Banco_Registros.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Banco_Registros.v}
+} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Datos.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Datos.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module BR
+-- Compiling module MEM_DATA
 
 Top level modules:
-	BR
-
-} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_EX_MEM.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_EX_MEM.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module BFF3
-
-Top level modules:
-	BFF3
+	MEM_DATA
 
 } {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_IF_ID.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_IF_ID.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -159,11 +152,11 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	BFF1
 
-} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Datos.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Datos.v}
+} {} {}} {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_EX_MEM.v} {1 {vlog -work work -stats=none {C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_EX_MEM.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module MEM_DATA
+-- Compiling module BFF3
 
 Top level modules:
-	MEM_DATA
+	BFF3
 
 } {} {}}

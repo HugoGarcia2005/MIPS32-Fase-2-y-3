@@ -8,7 +8,7 @@ module BR (
     output reg [31:0] R_data_2
 );
 
-    reg [31:0] MEM_BANCO [0:31];
+    reg [31:0] MEM_BANCO [0:127];
 
     initial begin
         $readmemb("DatosBR.txt", MEM_BANCO);
