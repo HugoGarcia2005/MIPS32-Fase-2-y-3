@@ -1,0 +1,587 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAC
+Z0 !s110 1747442892
+!i10b 1
+!s100 bi_U4IihJFGReGf5QgnzB1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I>2=kPko^jOljcAB[g@Cg02
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto
+w1747429950
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu_Control.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu_Control.v
+!i122 383
+L0 1 71
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1747442892.000000
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu_Control.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@c
+vALU
+R0
+!i10b 1
+!s100 DS7FBG^z_2F1Pkb_nG`_`0
+R1
+I7QBQSBTeg`:]ILZPO;LW@2
+R2
+R3
+w1747437367
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu.v
+!i122 382
+L0 2 51
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Alu.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vBFF1
+Z8 !s110 1747442893
+!i10b 1
+!s100 PC<HGbb6SWgzmM7Rhi4j;2
+R1
+ICc<;NoEBM@0H4^_A]3HUm1
+R2
+R3
+Z9 w1747426582
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_IF_ID.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_IF_ID.v
+!i122 388
+L0 3 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_IF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_IF_ID.v|
+!i113 1
+R6
+R7
+n@b@f@f1
+vBFF2
+R0
+!i10b 1
+!s100 T2=ARdRG4Pi0eYb5FS[W;0
+R1
+IIbbl0:h?a3lE>MO8GGmh72
+R2
+R3
+w1747426970
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_ID_EX.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_ID_EX.v
+!i122 387
+L0 2 61
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_ID_EX.v|
+!i113 1
+R6
+R7
+n@b@f@f2
+vBFF3
+R0
+!i10b 1
+!s100 dFG1Vo@h?iOo]7Jg_cHmZ2
+R1
+IES;g[G;YRWIIza4b0@TXc2
+R2
+R3
+w1747426991
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_EX_MEM.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_EX_MEM.v
+!i122 386
+L0 3 50
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_EX_MEM.v|
+!i113 1
+R6
+R7
+n@b@f@f3
+vBFF4
+R8
+!i10b 1
+!s100 :PH6cIY3eRJj[0gj^bFDk1
+R1
+IaG@^5:ND3a7T>MLaSLkTN1
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_MEM_WB.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_MEM_WB.v
+!i122 389
+L0 2 27
+R4
+r1
+!s85 0
+31
+Z10 !s108 1747442893.000000
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Buffer_MEM_WB.v|
+!i113 1
+R6
+R7
+n@b@f@f4
+vBR
+R0
+!i10b 1
+!s100 kU?@CfcQZzIT82zg7zaoz3
+R1
+IS3YhBFEH_@=h]QVYDIHiP3
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Banco_Registros.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Banco_Registros.v
+!i122 384
+L0 1 29
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Banco_Registros.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Banco_Registros.v|
+!i113 1
+R6
+R7
+n@b@r
+vBRANCH
+R0
+!i10b 1
+!s100 F>WV=[EG<dR9GRGF=F^bi1
+R1
+I]Y2=Gj07bN5eSD@N;W7fk2
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Branch.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Branch.v
+!i122 385
+Z11 L0 1 11
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Branch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Branch.v|
+!i113 1
+R6
+R7
+n@b@r@a@n@c@h
+vDATAPATH_FASE2
+R8
+!i10b 1
+!s100 ^O6NQSn5R3olXD>f=G=WH0
+R1
+IbWJ<X4Nk4md4KfgJmSdWF1
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/DataPath_Fase2_InstanciaV2.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/DataPath_Fase2_InstanciaV2.v
+!i122 390
+L0 1 365
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/DataPath_Fase2_InstanciaV2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/DataPath_Fase2_InstanciaV2.v|
+!i113 1
+R6
+R7
+n@d@a@t@a@p@a@t@h_@f@a@s@e2
+vDATAPATH_FASE2_TB
+R8
+!i10b 1
+!s100 emYmYn6Rj]FIdVnz_3`Nl1
+R1
+IR>]U11]5Sa0Q;cHhWiB<h3
+R2
+R3
+w1747430814
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/DataPath_Fase2_TB.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/DataPath_Fase2_TB.v
+!i122 391
+L0 2 24
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/DataPath_Fase2_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/DataPath_Fase2_TB.v|
+!i113 1
+R6
+R7
+n@d@a@t@a@p@a@t@h_@f@a@s@e2_@t@b
+vMEM_DATA
+R8
+!i10b 1
+!s100 2;a0zXPzEH;Bz`WkXIAIV0
+R1
+IJj39g=d49Sagl6ZWFB8Z;3
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Datos.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Datos.v
+!i122 392
+L0 1 26
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Datos.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Datos.v|
+!i113 1
+R6
+R7
+n@m@e@m_@d@a@t@a
+vMEM_INST
+R8
+!i10b 1
+!s100 Kk7Z=5aN<dPPEZfDmdPV?1
+R1
+IN_VJAJ`g`CNoBP2[c2`_e1
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Instrucciones.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Instrucciones.v
+!i122 393
+L0 1 16
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Instrucciones.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Memoria_Instrucciones.v|
+!i113 1
+R6
+R7
+n@m@e@m_@i@n@s@t
+vMUX_ALU
+R8
+!i10b 1
+!s100 ]nlW=RZBbb@`IfUO0SLT=0
+R1
+IXBNz=z9`c9`4J2gU9@3CE3
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorALU.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorALU.v
+!i122 394
+Z12 L0 1 17
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorALU.v|
+!i113 1
+R6
+R7
+n@m@u@x_@a@l@u
+vMUX_JUMP
+R8
+!i10b 1
+!s100 PhK52SGWoM6b?I8ZSC9Ub1
+R1
+I]j<1Ma3ORRDa322a7PhiB1
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorJump.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorJump.v
+!i122 395
+R12
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorJump.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorJump.v|
+!i113 1
+R6
+R7
+n@m@u@x_@j@u@m@p
+vMUX_MEM_DATA
+R8
+!i10b 1
+!s100 Wf4c=go<mIhH7XdNOaXKN0
+R1
+IF^b8J2A7o;>@ibiaOobo60
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorMemDatos.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorMemDatos.v
+!i122 396
+R12
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorMemDatos.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorMemDatos.v|
+!i113 1
+R6
+R7
+n@m@u@x_@m@e@m_@d@a@t@a
+vMUX_PC
+Z13 !s110 1747442894
+!i10b 1
+!s100 Yc5V^3JKdH]K@1hZAE_=90
+R1
+ISAkB9j[^1I5AQ3]<^YF`L2
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorPC.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorPC.v
+!i122 397
+R12
+R4
+r1
+!s85 0
+31
+Z14 !s108 1747442894.000000
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorPC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorPC.v|
+!i113 1
+R6
+R7
+n@m@u@x_@p@c
+vMUX_TIPO_I
+R13
+!i10b 1
+!s100 ^Dc9eJDH6b>c<iagU>H`^3
+R1
+IBQd:PLEkU^ziJm?DmZl]b2
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorTipoI.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorTipoI.v
+!i122 398
+R12
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorTipoI.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/MultiplexorTipoI.v|
+!i113 1
+R6
+R7
+n@m@u@x_@t@i@p@o_@i
+vPC
+R13
+!i10b 1
+!s100 aH`CNiDTJMd_MKbW1oCRT2
+R1
+ITz6<lZ]mOUQfK8e4dM6`P0
+R2
+R3
+w1747435903
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Program_Counter.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Program_Counter.v
+!i122 399
+L0 3 17
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Program_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Program_Counter.v|
+!i113 1
+R6
+R7
+n@p@c
+vSHIFT_LEFT_2
+R13
+!i10b 1
+!s100 DTW8>NXGQge:7fIUjVhL=0
+R1
+Igo4E@=mEI7RoQU8a6gbT;2
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/ShiftLeftTwo.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/ShiftLeftTwo.v
+!i122 400
+Z15 L0 1 10
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/ShiftLeftTwo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/ShiftLeftTwo.v|
+!i113 1
+R6
+R7
+n@s@h@i@f@t_@l@e@f@t_2
+vSHIFT_LEFT_2_JUMP
+R13
+!i10b 1
+!s100 SXP7nbKG6UnY=jM1F=5GK0
+R1
+I:`eaoj6lG9S4oGHhW0o4L1
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/ShiftLeftTwoJump.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/ShiftLeftTwoJump.v
+!i122 401
+R15
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/ShiftLeftTwoJump.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/ShiftLeftTwoJump.v|
+!i113 1
+R6
+R7
+n@s@h@i@f@t_@l@e@f@t_2_@j@u@m@p
+vSIGN_EXTEND
+R13
+!i10b 1
+!s100 l=6d6nWanUIP^EUUT=ZmW0
+R1
+INZMNcm0G8QOcCo^>n1JX;2
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/SignExtend.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/SignExtend.v
+!i122 402
+L0 1 13
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/SignExtend.v|
+!i113 1
+R6
+R7
+n@s@i@g@n_@e@x@t@e@n@d
+vSUMADOR
+R13
+!i10b 1
+!s100 h35>aRV;NomB=G[N?>YO31
+R1
+Ia6gM:;bm]fRRgG[Y[[DcO2
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Sumador.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Sumador.v
+!i122 403
+R15
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Sumador.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Sumador.v|
+!i113 1
+R6
+R7
+n@s@u@m@a@d@o@r
+vSUMADOR_2
+R13
+!i10b 1
+!s100 _LCd6idjVP3hkZ[m>X<<W3
+R1
+I7ZD=6UWXRj^oBNG0Amlbz1
+R2
+R3
+R9
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Sumador_2.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Sumador_2.v
+!i122 404
+R11
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Sumador_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Sumador_2.v|
+!i113 1
+R6
+R7
+n@s@u@m@a@d@o@r_2
+vUC
+!s110 1747442895
+!i10b 1
+!s100 dA@>MF[:h_R3?CBlMaXcB1
+R1
+IZaUW_CWWR6m=>^R9NiS2z2
+R2
+R3
+w1747430014
+8C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Unidad_Control.v
+FC:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Unidad_Control.v
+!i122 405
+L0 1 148
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Unidad_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/danie/Desktop/ADC/FASE 3/DataPathCompleto/Unidad_Control.v|
+!i113 1
+R6
+R7
+n@u@c
