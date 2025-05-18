@@ -1,0 +1,30 @@
+RSQRT $12, $2, $0
+ADDI $3, $1, #0 //Inicialziar
+NOP
+NOP
+ADDI $3, $3, #1
+NOP
+NOP
+BEQ $2, $3, #18
+NOP
+NOP
+NOP
+DIVU $4, $2, $3
+NOP
+NOP
+BEQ $0, $4, #11
+NOP
+NOP
+NOP
+BEQ $12, $3, #7
+NOP
+NOP
+NOP
+J #4 //salta a ADDI $3, $3, #1
+NOP
+NOP
+NOP
+J #100
+NOP
+NOP
+NOP

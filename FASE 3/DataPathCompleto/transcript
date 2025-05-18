@@ -1,6 +1,6 @@
-vsim work.DATAPATH_FASE2_TB
-# vsim work.DATAPATH_FASE2_TB 
-# Start time: 18:20:22 on May 16,2025
+vsim -gui work.DATAPATH_FASE2_TB
+# vsim -gui work.DATAPATH_FASE2_TB 
+# Start time: 22:50:42 on May 17,2025
 # Loading work.DATAPATH_FASE2_TB
 # Loading work.DATAPATH_FASE2
 # Loading work.MUX_PC
@@ -27,8 +27,14 @@ vsim work.DATAPATH_FASE2_TB
 # Loading work.MUX_MEM_DATA
 add wave -position end  sim:/DATAPATH_FASE2_TB/clk
 add wave -position end  sim:/DATAPATH_FASE2_TB/reset
-add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/mem_inst_fase2/dataOut
-add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/BFF1_fase2/out_MemInst_Instruccion
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/pc_fase2/acumulador
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_1
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_data_2
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_register_1
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/R_register_2
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/alu_fase2/Res
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/W_register
+add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/br_fase2/W_data
 run
 run
 run
@@ -36,6 +42,244 @@ run
 run
 run
 run
+run
+run
+run
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorJump.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of ShiftLeftTwoJump.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 24 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.MUX_JUMP
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.SHIFT_LEFT_2_JUMP
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorJump.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of ShiftLeftTwoJump.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 24 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.MUX_JUMP
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.SHIFT_LEFT_2_JUMP
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorJump.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of ShiftLeftTwoJump.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 24 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.MUX_JUMP
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.SHIFT_LEFT_2_JUMP
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorJump.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of ShiftLeftTwoJump.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 24 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.MUX_JUMP
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.SHIFT_LEFT_2_JUMP
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
 run
 run
 run
@@ -134,26 +378,121 @@ run
 run
 run
 run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorJump.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of ShiftLeftTwoJump.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 24 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.MUX_JUMP
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.SHIFT_LEFT_2_JUMP
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# Compile of Alu.v was successful.
+# Compile of Alu_Control.v was successful.
+# Compile of Banco_Registros.v was successful.
+# Compile of Branch.v was successful.
+# Compile of Buffer_EX_MEM.v was successful.
+# Compile of Buffer_ID_EX.v was successful.
+# Compile of Buffer_IF_ID.v was successful.
+# Compile of Buffer_MEM_WB.v was successful.
+# Compile of DataPath_Fase2_InstanciaV2.v was successful.
+# Compile of DataPath_Fase2_TB.v was successful.
+# Compile of Memoria_Datos.v was successful.
+# Compile of Memoria_Instrucciones.v was successful.
+# Compile of MultiplexorALU.v was successful.
+# Compile of MultiplexorJump.v was successful.
+# Compile of MultiplexorMemDatos.v was successful.
+# Compile of MultiplexorPC.v was successful.
+# Compile of MultiplexorTipoI.v was successful.
+# Compile of Program_Counter.v was successful.
+# Compile of ShiftLeftTwo.v was successful.
+# Compile of ShiftLeftTwoJump.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of Sumador.v was successful.
+# Compile of Sumador_2.v was successful.
+# Compile of Unidad_Control.v was successful.
+# 24 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.DATAPATH_FASE2_TB
+# Loading work.DATAPATH_FASE2
+# Loading work.MUX_PC
+# Loading work.MUX_JUMP
+# Loading work.PC
+# Loading work.SUMADOR
+# Loading work.MEM_INST
+# Loading work.BFF1
+# Loading work.UC
+# Loading work.SHIFT_LEFT_2_JUMP
+# Loading work.BR
+# Loading work.SIGN_EXTEND
+# Loading work.BFF2
+# Loading work.SHIFT_LEFT_2
+# Loading work.MUX_ALU
+# Loading work.MUX_TIPO_I
+# Loading work.SUMADOR_2
+# Loading work.ALU
+# Loading work.AC
+# Loading work.BFF3
+# Loading work.BRANCH
+# Loading work.MEM_DATA
+# Loading work.BFF4
+# Loading work.MUX_MEM_DATA
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
 # Compile of Alu.v was successful.
 # Compile of Alu_Control.v was successful.
 # Compile of Banco_Registros.v was successful.
@@ -230,6 +569,184 @@ run
 run
 run
 run
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run -all
+restart -f
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
 run
 run
 run
@@ -293,6 +810,259 @@ run
 run
 run
 run
+run
+run
+run
+run
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+restart -f
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart -f
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# error here!
+# error here!
+# error here!
+restart -f
+# error here!
+# error here!
+run -all
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+# error here!
+# error here!
+# error here!
+restart -f
+# error here!
+run
+# GetModuleFileName: No se puede encontrar el módulo especificado.
+# 
+# 
+run
+# error here!
+run -all
+run -all
 # Compile of Alu.v was successful.
 # Compile of Alu_Control.v was successful.
 # Compile of Banco_Registros.v was successful.
@@ -319,6 +1089,7 @@ run
 # Compile of Unidad_Control.v was successful.
 # 24 compiles, 0 failed with no errors.
 restart -f
+# error here!
 # ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
 # Loading work.DATAPATH_FASE2_TB
 # Loading work.DATAPATH_FASE2
@@ -344,140 +1115,33 @@ restart -f
 # Loading work.MEM_DATA
 # Loading work.BFF4
 # Loading work.MUX_MEM_DATA
-add wave -position end  sim:/DATAPATH_FASE2_TB/datapath_fase2_tb/mem_inst_fase2/dataOut
-run
+run -all
 # GetModuleFileName: No se puede encontrar el módulo especificado.
 # 
 # 
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
+# error here!
+# error here!
+# error here!
+# error here!
+# error here!
+# error here!
+# error here!
+# error here!
+# error here!
 restart -f
-run
+# error here!
+run -all
 # GetModuleFileName: No se puede encontrar el módulo especificado.
 # 
 # 
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
+# error here!
+# error here!
+# error here!
+# error here!
 restart -f
-run
+# error here!
+run -all
 # GetModuleFileName: No se puede encontrar el módulo especificado.
 # 
 # 
-run
-run
-run
-run
-run
-run
-restart -f
-run
-# GetModuleFileName: No se puede encontrar el módulo especificado.
-# 
-# 
-run
-run
-run
-run
-run
-run
-run
-run
-restart -f
-run
-# GetModuleFileName: No se puede encontrar el módulo especificado.
-# 
-# 
-run
-run
-run
-run
-run
-run
-run
-run
-run
-restart -f
-run
-# GetModuleFileName: No se puede encontrar el módulo especificado.
-# 
-# 
-run
-run
-run
-run
-run
-run
-run
-restart -f
-run
-# GetModuleFileName: No se puede encontrar el módulo especificado.
-# 
-# 
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
-run
+# error here!

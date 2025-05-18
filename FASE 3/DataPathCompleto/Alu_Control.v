@@ -39,6 +39,21 @@ always @* begin
 				begin
 					Op = 4'b1111;
 				end
+				//mul
+				6'b000010:
+				begin
+					Op = 4'b0011;
+				end
+				//mod (DIVU)
+				6'b011011:
+				begin
+					Op = 4'b0100;
+				end
+				//sqrt (RSQRT)
+				6'b010110:
+				begin
+					Op = 4'b0101;
+				end								
 			endcase
 		//SW/LW/ADDI
 		3'b000:
