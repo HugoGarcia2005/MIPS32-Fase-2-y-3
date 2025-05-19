@@ -1,0 +1,587 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAC
+Z0 !s110 1747623618
+!i10b 1
+!s100 _:I6F6SHhIXPF7[?Ue]0B1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ICc>al[Sh;hMHCn_8o^;Z01
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto
+w1747534080
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Alu_Control.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Alu_Control.v
+!i122 1007
+L0 1 86
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1747623617.000000
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Alu_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Alu_Control.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@c
+vALU
+!s110 1747623617
+!i10b 1
+!s100 aZQEOz]IY[;Qg4z7>2]LO3
+R1
+I7Z_`1^SGkoM4=kK5]>aQo0
+R2
+R3
+w1747533583
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Alu.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Alu.v
+!i122 1006
+L0 2 79
+R4
+r1
+!s85 0
+31
+!s108 1747623616.000000
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Alu.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vBFF1
+Z7 !s110 1747623619
+!i10b 1
+!s100 PC<HGbb6SWgzmM7Rhi4j;2
+R1
+IS:7YM3_hWOHh<XFz7<Z;=1
+R2
+R3
+Z8 w1747451878
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_IF_ID.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_IF_ID.v
+!i122 1012
+L0 3 16
+R4
+r1
+!s85 0
+31
+Z9 !s108 1747623619.000000
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_IF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_IF_ID.v|
+!i113 1
+R5
+R6
+n@b@f@f1
+vBFF2
+R7
+!i10b 1
+!s100 T2=ARdRG4Pi0eYb5FS[W;0
+R1
+I^mTM8KioLGD@i[WULXdXW2
+R2
+R3
+w1747537048
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_ID_EX.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_ID_EX.v
+!i122 1011
+L0 2 61
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_ID_EX.v|
+!i113 1
+R5
+R6
+n@b@f@f2
+vBFF3
+R0
+!i10b 1
+!s100 dFG1Vo@h?iOo]7Jg_cHmZ2
+R1
+IT39Z4U_fF=a;FEU04fSEE3
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_EX_MEM.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_EX_MEM.v
+!i122 1010
+L0 3 50
+R4
+r1
+!s85 0
+31
+Z10 !s108 1747623618.000000
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_EX_MEM.v|
+!i113 1
+R5
+R6
+n@b@f@f3
+vBFF4
+Z11 !s110 1747623620
+!i10b 1
+!s100 :PH6cIY3eRJj[0gj^bFDk1
+R1
+IVe?ME9S3hezoVmkJYHWH`1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_MEM_WB.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_MEM_WB.v
+!i122 1013
+L0 2 27
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Buffer_MEM_WB.v|
+!i113 1
+R5
+R6
+n@b@f@f4
+vBR
+R0
+!i10b 1
+!s100 PX_?^7ek9o3@JCM6fhBi41
+R1
+I2H[2Y[9Q3:5IUj4O6XLG@0
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Banco_Registros.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Banco_Registros.v
+!i122 1008
+L0 1 29
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Banco_Registros.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Banco_Registros.v|
+!i113 1
+R5
+R6
+n@b@r
+vBRANCH
+R0
+!i10b 1
+!s100 F>WV=[EG<dR9GRGF=F^bi1
+R1
+Ilf<dm]F4HzXWRS1nN]Mf?3
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Branch.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Branch.v
+!i122 1009
+Z12 L0 1 11
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Branch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Branch.v|
+!i113 1
+R5
+R6
+n@b@r@a@n@c@h
+vDATAPATH_FASE2
+R11
+!i10b 1
+!s100 ^O6NQSn5R3olXD>f=G=WH0
+R1
+IzOHCThRco^4dW:7B_[6KH1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/DataPath_Fase2_InstanciaV2.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/DataPath_Fase2_InstanciaV2.v
+!i122 1014
+L0 1 365
+R4
+r1
+!s85 0
+31
+Z13 !s108 1747623620.000000
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/DataPath_Fase2_InstanciaV2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/DataPath_Fase2_InstanciaV2.v|
+!i113 1
+R5
+R6
+n@d@a@t@a@p@a@t@h_@f@a@s@e2
+vDATAPATH_FASE2_TB
+R11
+!i10b 1
+!s100 emYmYn6Rj]FIdVnz_3`Nl1
+R1
+IHKMfZPU;J5f_S@ScAaK7V1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/DataPath_Fase2_TB.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/DataPath_Fase2_TB.v
+!i122 1015
+L0 2 24
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/DataPath_Fase2_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/DataPath_Fase2_TB.v|
+!i113 1
+R5
+R6
+n@d@a@t@a@p@a@t@h_@f@a@s@e2_@t@b
+vMEM_DATA
+Z14 !s110 1747623621
+!i10b 1
+!s100 2;a0zXPzEH;Bz`WkXIAIV0
+R1
+Il4>BA[fHfm=698fAcEURL1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Memoria_Datos.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Memoria_Datos.v
+!i122 1016
+L0 1 26
+R4
+r1
+!s85 0
+31
+Z15 !s108 1747623621.000000
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Memoria_Datos.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Memoria_Datos.v|
+!i113 1
+R5
+R6
+n@m@e@m_@d@a@t@a
+vMEM_INST
+R14
+!i10b 1
+!s100 Kk7Z=5aN<dPPEZfDmdPV?1
+R1
+IlRnTSJ_h?bVR5ISen3VKj3
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Memoria_Instrucciones.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Memoria_Instrucciones.v
+!i122 1017
+L0 1 16
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Memoria_Instrucciones.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Memoria_Instrucciones.v|
+!i113 1
+R5
+R6
+n@m@e@m_@i@n@s@t
+vMUX_ALU
+Z16 !s110 1747623622
+!i10b 1
+!s100 ]nlW=RZBbb@`IfUO0SLT=0
+R1
+IP`0^H6RY9<e_QS7Q0LQW>0
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorALU.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorALU.v
+!i122 1018
+Z17 L0 1 17
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorALU.v|
+!i113 1
+R5
+R6
+n@m@u@x_@a@l@u
+vMUX_JUMP
+R16
+!i10b 1
+!s100 PhK52SGWoM6b?I8ZSC9Ub1
+R1
+IY95O__RkhDX5gN8L[d<hF3
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorJump.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorJump.v
+!i122 1019
+R17
+R4
+r1
+!s85 0
+31
+Z18 !s108 1747623622.000000
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorJump.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorJump.v|
+!i113 1
+R5
+R6
+n@m@u@x_@j@u@m@p
+vMUX_MEM_DATA
+R16
+!i10b 1
+!s100 Wf4c=go<mIhH7XdNOaXKN0
+R1
+I[6]2D4mdm8W^HW>Ae2]E[2
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorMemDatos.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorMemDatos.v
+!i122 1020
+R17
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorMemDatos.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorMemDatos.v|
+!i113 1
+R5
+R6
+n@m@u@x_@m@e@m_@d@a@t@a
+vMUX_PC
+Z19 !s110 1747623623
+!i10b 1
+!s100 Yc5V^3JKdH]K@1hZAE_=90
+R1
+II828zd9^_GQDJZUSMafkj1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorPC.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorPC.v
+!i122 1021
+R17
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorPC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorPC.v|
+!i113 1
+R5
+R6
+n@m@u@x_@p@c
+vMUX_TIPO_I
+R19
+!i10b 1
+!s100 ^Dc9eJDH6b>c<iagU>H`^3
+R1
+Ijhkl7Nz?nF7d6P9W1Q>ne1
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorTipoI.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorTipoI.v
+!i122 1022
+R17
+R4
+r1
+!s85 0
+31
+Z20 !s108 1747623623.000000
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorTipoI.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/MultiplexorTipoI.v|
+!i113 1
+R5
+R6
+n@m@u@x_@t@i@p@o_@i
+vPC
+R19
+!i10b 1
+!s100 aH`CNiDTJMd_MKbW1oCRT2
+R1
+IeLbmQ`c<YG`g`k>4AWb9Q0
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Program_Counter.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Program_Counter.v
+!i122 1023
+L0 3 17
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Program_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Program_Counter.v|
+!i113 1
+R5
+R6
+n@p@c
+vSHIFT_LEFT_2
+R19
+!i10b 1
+!s100 DTW8>NXGQge:7fIUjVhL=0
+R1
+I6Be@ZKN<C]OXYVF9R>Lij3
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/ShiftLeftTwo.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/ShiftLeftTwo.v
+!i122 1024
+Z21 L0 1 10
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/ShiftLeftTwo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/ShiftLeftTwo.v|
+!i113 1
+R5
+R6
+n@s@h@i@f@t_@l@e@f@t_2
+vSHIFT_LEFT_2_JUMP
+Z22 !s110 1747623624
+!i10b 1
+!s100 SXP7nbKG6UnY=jM1F=5GK0
+R1
+IgdF_WW;gHiFlc1Yd^D`Q=2
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/ShiftLeftTwoJump.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/ShiftLeftTwoJump.v
+!i122 1025
+R21
+R4
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/ShiftLeftTwoJump.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/ShiftLeftTwoJump.v|
+!i113 1
+R5
+R6
+n@s@h@i@f@t_@l@e@f@t_2_@j@u@m@p
+vSIGN_EXTEND
+R22
+!i10b 1
+!s100 l=6d6nWanUIP^EUUT=ZmW0
+R1
+I=z4PDZG8VOhR[K;2][TMn3
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/SignExtend.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/SignExtend.v
+!i122 1026
+L0 1 13
+R4
+r1
+!s85 0
+31
+Z23 !s108 1747623624.000000
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/SignExtend.v|
+!i113 1
+R5
+R6
+n@s@i@g@n_@e@x@t@e@n@d
+vSUMADOR
+R22
+!i10b 1
+!s100 h35>aRV;NomB=G[N?>YO31
+R1
+I?7FORUM5]zjazC6JjM:9G0
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Sumador.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Sumador.v
+!i122 1027
+R21
+R4
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Sumador.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Sumador.v|
+!i113 1
+R5
+R6
+n@s@u@m@a@d@o@r
+vSUMADOR_2
+Z24 !s110 1747623625
+!i10b 1
+!s100 _LCd6idjVP3hkZ[m>X<<W3
+R1
+IB>anU2igZh_`V:4iaaa1<3
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Sumador_2.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Sumador_2.v
+!i122 1028
+R12
+R4
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Sumador_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Sumador_2.v|
+!i113 1
+R5
+R6
+n@s@u@m@a@d@o@r_2
+vUC
+R24
+!i10b 1
+!s100 dA@>MF[:h_R3?CBlMaXcB1
+R1
+I2^W6I_Ajh><fX7z4LcH3j0
+R2
+R3
+R8
+8C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Unidad_Control.v
+FC:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Unidad_Control.v
+!i122 1029
+L0 1 148
+R4
+r1
+!s85 0
+31
+!s108 1747623625.000000
+!s107 C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Unidad_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Yogo/Desktop/FASE 3/DataPathCompleto/Unidad_Control.v|
+!i113 1
+R5
+R6
+n@u@c
